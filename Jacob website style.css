@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:800');
+
+body {
+	background-color: #BFE6EC;
+	margin: 0 auto;
+	padding: 0;
+	font-family: AppleGothic;
+}
+
+h1 {
+	border: 0px;
+	color: white;
+	background-color: black;
+	padding: 25px;
+	margin-top: 0px;
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+	font-size: 3.5em;
+}
+
+button {
+	margin: 0 auto;
+	width: 200px;
+	height: 100px;
+	position: relative;
+	border-radius: 50px;
+}
+
+input {
+	font-size: 20px;
+	margin: 10px;
+}
+
+input .message {
+	height: 200px;
+	width: 500px;
+}
+
+.list {
+	margin: auto;
+	width: 90%;
+	padding: 10px;
+}
+
+.container {
+	margin: auto;
+	max-width: 600px;
+}
+
+.headshot {
+	height: 250px;
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	border: 5px solid black;
+}
+
+.helper {
+	display: inline-block;
+	height: 100%;
+	vertical-align: middle;
+	border: 2px solid green;
+}
+
+.headshot_img {
+	vertical-align: middle;
+	border: 2px solid red;
+	display: inline-block;
+	max-height: 250px;
+}
+
+.input {
+	margin: 0 auto;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.fields {
+	text-align: center;
+	width: 85%;
+	margin: 0 auto;
+}
+
+.projects {
+	width: 85%;
+	margin: 0 auto;
+	border: 2px solid black;
+}
+
+
